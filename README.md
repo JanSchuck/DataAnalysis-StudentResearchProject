@@ -29,29 +29,43 @@ Than you create a list of skills that you are looking to investigate. In this ca
 
 The most expected skill was SQL which occured in 40% of the job offers followed by python with 31% and Excel with 18%
 
-        keywords  counts  percentage
-32           sql     123   40.196078
-61        python      94   30.718954
-213        excel      54   17.647059
-255            r      49   16.013072
-817   powerpoint      20    6.535948
-833         java      19    6.209150
-1117  javascript      15    4.901961
-1715         git       9    2.941176
-1844         vba       9    2.941176
-1856           c       9    2.941176
+| keywords      | counts        | percentage    |
+| ------------- | ------------- | --------      |
+|sql            |       123     | 40.196078     |
+|python         |        94     | 30.718954     |       
+|excel          |        54     | 17.647059     |     
+|r              |        49     | 16.013072     |
+|powerpoint     |        20     | 6.535948      |
+|java           |        19     | 6.209150      |
+|javascript     |        15     | 4.901961      |
+| git           |        9      | 2.941176      |
+| vba           |        9      | 2.941176      |
+| c             |        9      | 2.941176      |
+| sql           |        123    | 40.196078     |
+| python        |        94     | 30.718954     |
+| excel         |        54     | 17.647059     |
+| r             |        49     | 16.013072     |
+| powerpoint    |        20     | 6.535948      |
+| java          |        19     | 6.209150      |
+| javascript    |        15     | 4.901961      |
+| git           |        9      | 2.941176      |
+| vba           |        9      | 2.941176      |
+| c             |        9      | 2.941176      |
 
 The best location for finding a Data Analyst job is Berlin followed by homeoffice and München
 
-berlin               37
-homeoffice           16
-münchen              14
-hamburg              11
-frankfurt_am_main     9
+| location              | counts        |       
+| -------------         | ------------- | 
+| berlin                |         37    |
+| homeoffice            |        16     |
+| münchen               |        14     |
+| hamburg               |        11     |
+| frankfurt_am_main     |        9      |
 
 When it comes to the question of Python vs R. Python clearly was more asked:
 
-    keywords  counts  percentage
-61    python      94   27.089337
-255        r      49   14.121037
+|    keywords | counts | percentage
+| ------------- | ------------- | --------      |
+|    python |     94 |  27.089337
+|        r |     49 |  14.121037
 
